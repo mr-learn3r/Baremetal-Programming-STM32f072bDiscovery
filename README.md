@@ -30,7 +30,15 @@ To get started with this project, follow these steps:
  *  Explore the code snippets, project demos, and documentation in the repository.
  *  Change the code depending on your board & microcontroller (refer manuals and datasheet).
  *  Compile and run using STM32Cube IDE
- 
+
+## Output
+##### 0x02 RGB Led Toggling
+https://github.com/mr-learn3r/Baremetal-Programming-STM32f072bDiscovery/assets/39499389/f31b874d-f1f5-4737-8fad-f25254df9bdc
+
+
+##### 0x03 Red Led Toggle uisng Button Interrupt
+https://github.com/mr-learn3r/Baremetal-Programming-STM32f072bDiscovery/assets/39499389/51887316-c545-4257-b469-e88537819a1c
+
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
