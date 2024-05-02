@@ -1,0 +1,5 @@
+"./Src/Red_LED_Toggle_Button_Interrupt.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f072rbtx.o"
+"./driver/Src/GPIO_drv.o"

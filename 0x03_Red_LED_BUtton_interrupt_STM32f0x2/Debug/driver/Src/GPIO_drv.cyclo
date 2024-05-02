@@ -1,0 +1,11 @@
+../driver/Src/GPIO_drv.c:26:15:GPIO_init	13
+../driver/Src/GPIO_drv.c:124:6:GPIO_deinit	7
+../driver/Src/GPIO_drv.c:168:15:GPIO_pClckCtrl	19
+../driver/Src/GPIO_drv.c:218:9:GPIO_ReadFromInputPin	1
+../driver/Src/GPIO_drv.c:239:10:GPIO_ReadFromInputPort	1
+../driver/Src/GPIO_drv.c:261:9:GPIO_WriteToOutputPin	2
+../driver/Src/GPIO_drv.c:288:9:GPIO_WriteToOutputPort	1
+../driver/Src/GPIO_drv.c:307:6:GPIO_ToggleOutputPin	1
+../driver/Src/GPIO_drv.c:328:6:GPIO_IRQConfig	2
+../driver/Src/GPIO_drv.c:350:6:GPIO_IRQPriorityConfig	1
+../driver/Src/GPIO_drv.c:370:6:GPIO_IRQHandler	2
