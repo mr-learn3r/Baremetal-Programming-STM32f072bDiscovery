@@ -1,3 +1,0 @@
-"./Src/RGB_Led_Toggle.o"
-"./Startup/startup_stm32f072rbtx.o"
-"./driver/Src/GPIO_drv.o"
